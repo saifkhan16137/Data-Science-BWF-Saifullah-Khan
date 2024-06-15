@@ -1,0 +1,31 @@
+Data and Data Science Overview:
+
+What is Data?
+
+- Data is everywhere: text, phone numbers, time displays.
+- Computers rely on data for computations and processing.
+- The Internet has increased the importance of data for communication and information access.
+
+What is Data Science?
+
+- Definition: Extracts knowledge and insights from data using scientific methods.
+- Goals: Understand data, find relationships, build models, and produce actionable insights.
+- Scope: Covers structured and unstructured data across various domains.
+- Methods: Uses statistics, hypothesis testing, and scientific approaches to interpret data.
+- Paradigms: Includes empirical, theoretical, computational, and data-driven science.
+
+Related Fields:
+
+1.  Databases
+2.  Big Data
+3.  Machine Learning
+4.  Artificial Intelligence
+5.  Visualization
+
+Data Science Process:
+
+1. Data Acquisition: Collecting data from various sources.
+2. Data Storage: Choosing storage methods (relational, NoSQL, data lakes).
+3. Data Processing: Converting raw data into usable formats.
+4. Data Visualization: Creating visual insights from data.
+5. Training Predictive Models: Using machine learning for decision-making.
